@@ -4,3 +4,6 @@
 
 Documentar el proceso de instalación de una CA de RPKI delegada, el onboarding bajo el TA de RPKI de LACNIC. Realizar pruebas y tests con la CA instalada bajo LACNIC. 
 
+## Comenzar
+
+- (Acerca de LACNIC)[about-lacnic.html]
