@@ -6,4 +6,5 @@ Documentar el proceso de instalación de una CA de RPKI delegada, el onboarding 
 
 ## Comenzar
 
-- [Acerca de LACNIC](about-lacnic)
+- [Acerca de LACNIC](about-lacnic.md)
+- [Acerda del RPKI delegado](about-delegated-rpki.md)
