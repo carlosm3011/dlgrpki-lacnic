@@ -15,5 +15,9 @@ El repositorio donde reside este sitio y donde subiremos los scripts y datos gen
 
 ## Comenzar
 
+- [Instalación de Krill](krill-install.md)
+
+## Referencias
+
 - [Acerca de LACNIC](about-lacnic.md)
-- [Acerda del RPKI delegado](about-delegated-rpki.md)
+- [Acerca del RPKI delegado](about-delegated-rpki.md)
