@@ -6,6 +6,8 @@ En la modalidad delegada de RPKI, las organizaciones que poseen bloques de direc
 
 En este modelo, la organización delegante (por ejemplo, el titular del bloque de direcciones IP) emite un certificado de delegación a la entidad delegada, que puede ser un ISP o un cliente. Este certificado permite a la entidad delegada emitir certificados y firmar rutas en nombre de la organización delegante.
 
+![diagrama rpki delegado](img/rpki-delegado.png)
+
 La modalidad delegada de RPKI ofrece varios beneficios. En primer lugar, permite una gestión más descentralizada de los recursos de Internet, lo que facilita la colaboración entre diferentes organizaciones. Además, reduce la carga administrativa para la organización delegante, ya que puede transferir parte de la responsabilidad de gestión a la entidad delegada.
 
 Sin embargo, es importante tener en cuenta que la modalidad delegada también implica ciertos riesgos. La entidad delegada debe ser confiable y tener la capacidad técnica adecuada para emitir certificados y firmar rutas de manera segura. Además, la organización delegante sigue siendo responsable de supervisar y asegurarse de que la entidad delegada actúe de manera adecuada y segura.
